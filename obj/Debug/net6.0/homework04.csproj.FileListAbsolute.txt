@@ -1,0 +1,15 @@
+C:\Users\makar\Desktop\HomeWork04\homework04\bin\Debug\net6.0\homework04.exe
+C:\Users\makar\Desktop\HomeWork04\homework04\bin\Debug\net6.0\homework04.deps.json
+C:\Users\makar\Desktop\HomeWork04\homework04\bin\Debug\net6.0\homework04.runtimeconfig.json
+C:\Users\makar\Desktop\HomeWork04\homework04\bin\Debug\net6.0\homework04.dll
+C:\Users\makar\Desktop\HomeWork04\homework04\bin\Debug\net6.0\homework04.pdb
+C:\Users\makar\Desktop\HomeWork04\homework04\obj\Debug\net6.0\homework04.csproj.AssemblyReference.cache
+C:\Users\makar\Desktop\HomeWork04\homework04\obj\Debug\net6.0\homework04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makar\Desktop\HomeWork04\homework04\obj\Debug\net6.0\homework04.AssemblyInfoInputs.cache
+C:\Users\makar\Desktop\HomeWork04\homework04\obj\Debug\net6.0\homework04.AssemblyInfo.cs
+C:\Users\makar\Desktop\HomeWork04\homework04\obj\Debug\net6.0\homework04.csproj.CoreCompileInputs.cache
+C:\Users\makar\Desktop\HomeWork04\homework04\obj\Debug\net6.0\homework04.dll
+C:\Users\makar\Desktop\HomeWork04\homework04\obj\Debug\net6.0\refint\homework04.dll
+C:\Users\makar\Desktop\HomeWork04\homework04\obj\Debug\net6.0\homework04.pdb
+C:\Users\makar\Desktop\HomeWork04\homework04\obj\Debug\net6.0\homework04.genruntimeconfig.cache
+C:\Users\makar\Desktop\HomeWork04\homework04\obj\Debug\net6.0\ref\homework04.dll
