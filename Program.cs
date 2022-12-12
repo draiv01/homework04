@@ -32,5 +32,40 @@
 // int num = Convert.ToInt32(Console.ReadLine());
 // int res = Counter(num);
 
-// Console.WriteLine($"Количество цифр числа {num} равно {res}");
+// Console.WriteLine($"Сумма цифр числа {num} равно {res}");
 
+// Задача 29: Напишите программу, которая задаёт массив из произвольного кол-ва элементов и выводит их на экран.
+
+
+
+
+// int[] Array(int numb)
+// {
+//     int [] arr = new int [1];
+//     for (int i = 0; i < arr.Length; i++)
+//     {
+//     {
+//         arr[i] = new Random().Next(0,99);
+//     }
+//     }
+// }
+
+// void PrintArry(int[] ad)
+// {
+//   int count = ad.Length;
+//   int i = 0;
+//   Console.Write("[");
+//   while(i < count)
+//   {
+//     Console.Write(ad[i]);
+//     i++;
+//     if (i < count)
+//     {
+//       Console.Write(", ");
+//     }
+//   }
+//   Console.Write("]");
+// } 
+// System.Console.WriteLine("Write");
+// int LengthMass = Convert.ToInt32(Console.ReadLine());
+// PrintArry(Array(LengthMass));
